@@ -4,7 +4,8 @@ PITCH DECK: https://eu.docs.wps.com/module/common/loadPlatform/?sid=sIAfN-caKAqD
 
 DEMO VIDEO: https://drive.google.com/file/d/1Vi4PFfVHbgpegiZW66w2mPCGL1vTnS8J/view?usp=drivesdk
 
-DOCUMENTATION: https://meta-dcs.vercel.app/
+DOCUMENTATION: https://meta-dcs-six.vercel.app
+
 
 
 
